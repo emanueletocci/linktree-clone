@@ -11,9 +11,9 @@ Si tratta di un semplice clone del servizio [**"linktree"**](https://linktr.ee/)
 Puoi trovare il progetto della UI [qui](https://www.figma.com/community/file/1183580514352484514).
 I colori sono basati sulle [happy hues color palette](https://www.happyhues.co/).
 
-Contribuisci al progetto creando un [**fork**](https://github.com/emanueletocci/linktree-clone/fork)🍴 o lasciando una semplice ⭐!
+Contribuisci al progetto creando un [**fork**](https://github.com/emanueletocci/linktree-clone-html-css/fork)🍴 o lasciando una semplice ⭐!
 Puoi clonare localmente il repository usando:
  
 ``` 
-git clone https://github.com/emanueletocci/linktree-clone 
+git clone https://github.com/emanueletocci/linktree-clone-html-css
 ```
