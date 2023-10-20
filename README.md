@@ -19,7 +19,7 @@ git clone https://github.com/emanueletocci/linktree-clone-html-css
 ```
 ---
 
-It is a simple clone of [**"linktree"**](https://linktr.ee/) social bio tool built in totally in html 5 and css3. The service basically allows you to aggregate various links within a simple html page which can be safely hosted here on github. Here is an [example](https://emanueletocci.github.io/).
+It is a simple clone of [**"linktree"**](https://linktr.ee/) social bio tool built totally in html 5 and css3. The service basically allows you to aggregate various links within a simple html page which can be safely hosted here on github. Here is an [example](https://emanueletocci.github.io/).
 
 You can find UI project [here](https://www.figma.com/community/file/1183580514352484514).
 All colors are based on [happy hues color palette](https://www.happyhues.co/). The icons are from [icons8](https://icons8.com/icon/) and attribution for free plan is required.
